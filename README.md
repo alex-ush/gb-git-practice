@@ -1,6 +1,8 @@
 master
 
 branch1
+    worst branch
+branch2
     best branch
 branch2
     worst branch
